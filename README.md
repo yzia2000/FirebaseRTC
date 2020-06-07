@@ -14,3 +14,5 @@ Sprint 2
 4.  Content sharing
 5.  Link sharing
 6.  WhatsApp sharing
+
+This repo is deprecated. New repo: https://github.com/yzia2000/zims
